@@ -18,7 +18,7 @@ import keras
 # Параметры модели
 img_height = 256
 img_width = 256
-num_classes = 4  # Замените на количество ваших классов
+num_classes = 4
 
 # Функция для создания модели с той же архитектурой
 def create_model(input_shape):
